@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>US</key>
+	<array>
+<string>Birmingham</string>
+<string>Huntsville</string>
+<string>Mobile</string>
+<string>Montgomery</string>
+<string>Anchorage</string>
+<string>Chandler</string>
+<string>Gilbert</string>
+<string>Glendale</string>
+<string>Mesa</string>
+<string>Peoria</string>
+<string>Phoenix</string>
+<string>Scottsdale</string>
+<string>Tempe</string>
+<string>Tucson</string>
+<string>Little Rock</string>
+<string>Anaheim</string>
+<string>Antioch</string>
+<string>Bakersfield</string>
+<string>Berkeley</string>
+<string>Burbank</string>
+<string>Chula Vista</string>
+<string>Concord</string>
+<string>Corona</string>
+<string>Costa Mesa</string>
+<string>Daly</string>
+<string>Downey</string>
+<string>El Monte</string>
+<string>Escondido</string>
+<string>Fairfield</string>
+<string>Fontana</string>
+<string>Fremont</string>
+<string>Fresno</string>
+<string>Fullerton</string>
+<string>Garden Grove</string>
+<string>Glendale</string>
+<string>Hayward</string>
+<string>Huntington Beach</string>
+<string>Inglewood</string>
+<string>Irvine</string>
+<string>Lancaster</string>
+<string>Long Beach</string>
+<string>Los Angeles</string>
+<string>Modesto</string>
+<string>Moreno Valley</string>
+<string>Norwalk</string>
+<string>Oakland</string>
+<string>Oceanside</string>
+<string>Ontario</string>
+<string>Orange</string>
+<string>Oxnard</string>
+<string>Palmdale</string>
+<string>Pasadena</string>
+<string>Pomona</string>
+<string>Rancho Cucamonga</string>
+<string>Richmond</string>
+<string>Riverside</string>
+<string>Sacramento</string>
+<string>Salinas</string>
+<string>San Bernardino</string>
+<string>San Buenaventura (Ventura)</string>
+<string>San Diego</string>
+<string>San Francisco</string>
+<string>San Jose</string>
+<string>Santa Ana</string>
+<string>Santa Clara</string>
+<string>Santa Clarita</string>
+<string>Santa Rosa</string>
+<string>Simi Valley</string>
+<string>Stockton</string>
+<string>Sunnyvale</string>
+<string>Thousand Oaks</string>
+<string>Torrance</string>
+<string>Vallejo</string>
+<string>Visalia</string>
+<string>West Covina</string>
+<string>Arvada</string>
+<string>Aurora</string>
+<string>Colorado Springs</string>
+<string>Denver</string>
+<string>Fort Collins</string>
+<string>Lakewood</string>
+<string>Pueblo</string>
+<string>Westminster</string>
+<string>Bridgeport</string>
+<string>Hartford</string>
+<string>New Haven</string>
+<string>Stamford</string>
+<string>Waterbury</string>
+<string>Washington</string>
+<string>Cape Coral</string>
+<string>Clearwater</string>
+<string>Coral Springs</string>
+<string>Fort Lauderdale</string>
+<string>Gainesville</string>
+<string>Hialeah</string>
+<string>Hollywood</string>
+<string>Jacksonville</string>
+<string>Miami</string>
+<string>Orlando</string>
+<string>Pembroke Pines</string>
+<string>Port St. Lucie</string>
+<string>St. Petersburg</string>
+<string>Tallahassee</string>
+<string>Tampa</string>
+<string>Athens-Clarke County (balance)</string>
+<string>Atlanta</string>
+<string>Augusta-Richmond County (balance)</string>
+<string>Columbus</string>
+<string>Savannah</string>
+<string>Honolulu CDP</string>
+<string>Boise</string>
+<string>Aurora</string>
+<string>Chicago</string>
+<string>Joliet</string>
+<string>Naperville</string>
+<string>Peoria</string>
+<string>Rockford</string>
+<string>Springfield</string>
+<string>Evansville</string>
+<string>Fort Wayne</string>
+<string>Indianapolis (balance)</string>
+<string>South Bend</string>
+<string>Cedar Rapids</string>
+<string>Des Moines</string>
+<string>Kansas</string>
+<string>Olathe</string>
+<string>Overland Park</string>
+<string>Topeka</string>
+<string>Wichita</string>
+<string>Lexington-Fayette</string>
+<string>Louisville</string>
+<string>Baton Rouge</string>
+<string>Lafayette</string>
+<string>New Orleans</string>
+<string>Shreveport</string>
+<string>Baltimore</string>
+<string>Boston</string>
+<string>Cambridge</string>
+<string>Lowell</string>
+<string>Springfield</string>
+<string>Worcester</string>
+<string>Ann Arbor</string>
+<string>Detroit</string>
+<string>Flint</string>
+<string>Grand Rapids</string>
+<string>Lansing</string>
+<string>Sterling Heights</string>
+<string>Warren</string>
+<string>Minneapolis</string>
+<string>St. Paul</string>
+<string>Jackson</string>
+<string>Independence</string>
+<string>Kansas</string>
+<string>Springfield</string>
+<string>St. Louis</string>
+<string>Lincoln</string>
+<string>Omaha</string>
+<string>Henderson</string>
+<string>Las Vegas</string>
+<string>North Las Vegas</string>
+<string>Reno</string>
+<string>Manchester</string>
+<string>Elizabeth</string>
+<string>Jersey</string>
+<string>Newark</string>
+<string>Paterson</string>
+<string>Albuquerque</string>
+<string>Buffalo</string>
+<string>New York</string>
+<string>Rochester</string>
+<string>Syracuse</string>
+<string>Yonkers</string>
+<string>Charlotte</string>
+<string>Durham</string>
+<string>Fayetteville</string>
+<string>Greensboro</string>
+<string>Raleigh</string>
+<string>Winston-Salem</string>
+<string>Akron</string>
+<string>Cincinnati</string>
+<string>Cleveland</string>
+<string>Columbus</string>
+<string>Dayton</string>
+<string>Toledo</string>
+<string>Oklahoma</string>
+<string>Tulsa</string>
+<string>Eugene</string>
+<string>Portland</string>
+<string>Salem</string>
+<string>Allentown</string>
+<string>Erie</string>
+<string>Philadelphia</string>
+<string>Pittsburgh</string>
+<string>Providence</string>
+<string>Charleston</string>
+<string>Columbia</string>
+<string>Sioux Falls</string>
+<string>Chattanooga</string>
+<string>Clarksville</string>
+<string>Knoxville</string>
+<string>Memphis</string>
+<string>Nashville-Davidson (balance)</string>
+<string>Abilene</string>
+<string>Amarillo</string>
+<string>Arlington</string>
+<string>Austin</string>
+<string>Beaumont</string>
+<string>Brownsville</string>
+<string>Carrollton</string>
+<string>Corpus Christi</string>
+<string>Dallas</string>
+<string>El Paso</string>
+<string>Fort Worth</string>
+<string>Garland</string>
+<string>Grand Prairie</string>
+<string>Houston</string>
+<string>Irving</string>
+<string>Laredo</string>
+<string>Lubbock</string>
+<string>McAllen</string>
+<string>Mesquite</string>
+<string>Pasadena</string>
+<string>Plano</string>
+<string>San Antonio</string>
+<string>Waco</string>
+<string>Wichita Falls</string>
+<string>Provo</string>
+<string>Salt Lake</string>
+<string>West Valley</string>
+<string>Alexandria</string>
+<string>Arlington CDP</string>
+<string>Chesapeake</string>
+<string>Hampton</string>
+<string>Newport News</string>
+<string>Norfolk</string>
+<string>Richmond</string>
+<string>Virginia Beach</string>
+<string>Bellevue</string>
+<string>Seattle</string>
+<string>Spokane</string>
+<string>Tacoma</string>
+<string>Vancouver</string>
+<string>Green Bay</string>
+<string>Madison</string>
+<string>Milwaukee</string>
+	</array>
+	<key>Canada</key>
+	<array>
+	<string>Calgary </string>
+<string>Edmonton </string>
+<string>Red Deer</string>
+<string>Vancouver </string>
+<string>Surrey </string>
+<string>Burnaby </string>
+<string>Winnipeg </string>
+<string>Brandon </string>
+<string>Thompson </string>
+<string>Saint John </string>
+<string>Moncton </string>
+<string>Fredericton </string>
+<string>St. John's </string>
+<string>Mount Pearl </string>
+<string>Corner Brook </string>
+<string>Halifax </string>
+<string>Sydney </string>
+<string>New Glasgow </string>
+<string>Toronto </string>
+<string>Ottawa </string>
+<string>Mississauga </string>
+<string>Charlottetown </string>
+<string>Summerside </string>
+<string>Stratford </string>
+<string>Montreal </string>
+<string>Quebec City </string>
+<string>Laval </string>
+<string>Saskatoon </string>
+<string>Regina </string>
+<string>Prince Albert </string>
+	</array>
+	<key>Germany</key>
+	<array>
+	<string>Berlin</string>
+<string>Hamburg</string>
+<string>Munich</string>
+<string>Cologne</string>
+<string>Frankfurt</string>
+<string>Stuttgart</string>
+<string>Dortmund</string>
+<string>Essen</string>
+<string>Düsseldorf</string>
+<string>Bremen</string>
+<string>Hanover</string>
+<string>Leipzig</string>
+<string>Duisburg</string>
+<string>Nuremberg</string>
+<string>Dresden</string>
+<string>Bochum</string>
+<string>Wuppertal</string>
+<string>Bielefeld</string>
+<string>Bonn</string>
+<string>Mannheim</string>
+<string>Karlsruhe</string>
+<string>Wiesbaden</string>
+<string>Münster</string>
+<string>Gelsenkirchen</string>
+<string>Augsburg</string>
+<string>Mönchengladbach</string>
+<string>Aix-la-Chapelle/Aachen</string>
+<string>Chemnitz</string>
+<string>Brunswick/Braunschweig</string>
+<string>Krefeld</string>
+<string>Halle</string>
+<string>Kiel</string>
+<string>Magdeburg</string>
+<string>Oberhausen</string>
+<string>Freiburg</string>
+<string>Lübeck</string>
+<string>Erfurt</string>
+<string>Rostock</string>
+<string>Hagen</string>
+<string>Kassel</string>
+<string>Mainz</string>
+<string>Hamm</string>
+<string>Saarbrücken</string>
+<string>Herne</string>
+<string>Mülheim</string>
+<string>Osnabrück</string>
+<string>Solingen</string>
+<string>Ludwigshafen</string>
+<string>Leverkusen</string>
+<string>Oldenburg</string>
+<string>Neuss</string>
+<string>Potsdam</string>
+<string>Paderborn</string>
+<string>Heidelberg</string>
+<string>Darmstadt</string>
+<string>Würzburg</string>
+<string>Regensburg</string>
+<string>Göttingen</string>
+<string>Recklinghausen</string>
+<string>Heilbronn</string>
+<string>Ingolstadt</string>
+<string>Wolfsburg</string>
+<string>Ulm</string>
+<string>Offenbach</string>
+<string>Bottrop</string>
+<string>Pforzheim</string>
+<string>Bremerhaven</string>
+<string>Remscheid</string>
+<string>Fürth</string>
+<string>Reutlingen</string>
+<string>Salzgitter</string>
+<string>Moers</string>
+<string>Koblenz</string>
+<string>Siegen</string>
+<string>Bergisch</string>
+<string>Gera</string>
+<string>Trier</string>
+<string>Erlangen</string>
+<string>Hildesheim</string>
+<string>Jena</string>
+<string>Witten</string>
+	</array>
+	<key>Australia</key>
+	<array>
+	<string>Sydney</string>
+<string>Melbourne</string>
+<string>Brisbane</string>
+<string>Perth</string>
+<string>Adelaide</string>
+<string>Gold Coast-Tweed</string>
+<string>Newcastle</string>
+<string>Canberra-Queanbeyan</string>
+<string>Canberra</string>
+<string>Wollongong</string>
+<string>Sunshine Coast</string>
+<string>Greater Hobart</string>
+<string>Geelong</string>
+<string>Townsville</string>
+<string>Cairns</string>
+<string>Toowoomba</string>
+<string>Darwin</string>
+<string>Launceston</string>
+<string>Albury-Wodonga</string>
+<string>Ballarat</string>
+<string>Bendigo</string>
+<string>Burnie-Devonport</string>
+<string>Mackay</string>
+<string>La Trobe Valley</string>
+<string>Rockhampton</string>
+<string>Mandurah</string>
+<string>Bundaberg</string>
+<string>Bunbury</string>
+<string>Wagga Wagga</string>
+<string>Hervey Bay</string>
+<string>Coffs Harbour</string>
+<string>Mildura</string>
+<string>Gladstone</string>
+<string>Shepparton</string>
+<string>Tamworth</string>
+<string>Port Macquarie</string>
+<string>Orange</string>
+<string>Dubbo</string>
+<string>Geraldton</string>
+<string>Nowra-Bomaderry</string>
+<string>Bathurst</string>
+<string>Warrnambool</string>
+<string>Lismore</string>
+<string>Kalgoorlie/Boulder</string>
+	</array>
+	<key>UK</key>
+	<array>
+	<string>Bath </string>
+<string>Birmingham </string>
+<string>Bradford </string>
+<string>Brighton and Hove </string>
+<string>Bristol </string>
+<string>Cambridge </string>
+<string>Canterbury </string>
+<string>Carlisle </string>
+<string>Chester </string>
+<string>Chichester </string>
+<string>Coventry </string>
+<string>Derby </string>
+<string>Durham </string>
+<string>Ely </string>
+<string>Exeter </string>
+<string>Gloucester </string>
+<string>Hereford </string>
+<string>Kingston upon Hull </string>
+<string>Lancaster </string>
+<string>Leeds </string>
+<string>Leicester </string>
+<string>Lichfield </string>
+<string>Lincoln </string>
+<string>Liverpool </string>
+<string>City of London </string>
+<string>Manchester </string>
+<string>Newcastle upon Tyne </string>
+<string>Norwich </string>
+<string>Nottingham </string>
+<string>Oxford </string>
+<string>Peterborough </string>
+<string>Plymouth </string>
+<string>Portsmouth </string>
+<string>Preston </string>
+<string> Ripon </string>
+<string>Salford </string>
+<string>Salisbury </string>
+<string>Sheffield </string>
+<string>Southampton </string>
+<string>St Albans </string>
+<string>Stoke-on-Trent </string>
+<string>Sunderland </string>
+<string>Truro </string>
+<string>Wakefield </string>
+<string>Wells </string>
+<string>Westminster </string>
+<string>Winchester </string>
+<string>Wolverhampton </string>
+<string>Worcester </string>
+<string>York </string>
+<string>Aberdeen </string>
+<string>Dundee </string>
+<string>Edinburgh </string>
+<string>Glasgow </string>
+<string>Inverness </string>
+<string>Stirling </string>
+<string>Bangor </string>
+<string>Cardiff </string>
+<string>Newport </string>
+<string>St David's </string>
+<string>Swansea</string>
+<string>Armagh </string>
+<string>Belfast </string>
+<string>Lisburn </string>
+<string>Londonderry/Derry</string>
+<string>Newry </string>
+	</array>
+	<key>Japan</key>
+	<array>
+	<string>愛知県</string>
+<string>秋田県</string>
+<string>青森県</string>
+<string>千葉県</string>
+<string>愛媛県</string>
+<string>福井県</string>
+<string>福岡県</string>
+<string>福島県</string>
+<string>岐阜県</string>
+<string>群馬県</string>
+<string>広島県</string>
+<string>北海道</string>
+<string>兵庫県</string>
+<string>茨城県</string>
+<string>石川県</string>
+<string>岩手県</string>
+<string>香川県</string>
+<string>鹿児島県</string>
+<string>神奈川県</string>
+<string>高知県</string>
+<string>熊本県</string>
+<string>京都府</string>
+<string>三重県</string>
+<string>宮城県</string>
+<string>宮崎県</string>
+<string>長野県</string>
+<string>長崎県</string>
+<string>奈良県</string>
+<string>新潟県</string>
+<string>大分県</string>
+<string>岡山県</string>
+<string>沖縄県</string>
+<string>大阪府</string>
+<string>佐賀県</string>
+<string>埼玉県</string>
+<string>滋賀県</string>
+<string>島根県</string>
+<string>静岡県</string>
+<string>栃木県</string>
+<string>徳島県</string>
+<string>東京都</string>
+<string>鳥取県</string>
+<string>富山県</string>
+<string>和歌山県</string>
+<string>山形県</string>
+<string>山口県</string>
+<string>山梨県</string>
+	</array>
+</dict>
+</plist>

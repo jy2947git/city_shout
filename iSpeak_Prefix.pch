@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'iSpeak' target in the 'iSpeak' project
+//
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import"DebugLog.h"
+#endif
+#ifdef DEBUG
+
+#define DebugLog(args...) _DebugLog(__FILE__,__LINE__,__PRETTY_FUNCTION__,args);
+
+#else
+
+#define DebugLog(x...)
+
+#endif
